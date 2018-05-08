@@ -1,5 +1,6 @@
 # tmuxconf
 my tmuxconf
+
 Install tmux and tpm
 ```
 sudo apt-get install tmux xsel
